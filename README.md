@@ -1,4 +1,4 @@
-# Auction Web Application
+# Entusiasta Web Application
 
 A web application for managing and participating in online auctions. Users can browse available items, create auctions, place bids, and manage their listings through an interactive web interface.
 
